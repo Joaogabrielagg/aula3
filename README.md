@@ -1,10 +1,10 @@
-![logo](./mg/logo.jpg)
+![logo](./mg/logo.png)
 <p align="center">
 <mg src="./mg/logo.jpg">
 </p>
 
 
-# Padrão de Documentação README
+# PROJETO REDES SOCIAIS
 
 
 <!-- # titulo do README
@@ -20,29 +20,33 @@
 
 <p> Este Readme tem a proposta de apresentar um modelo de documentação de repositores <p>
 
-![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+<a href="www.facebook.com">![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
 
-![logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<a href="www.twitter.com">![logo](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 Conteúdo 
 <ul>
     <li>
         <a
-        href="#descricao">Descrição</a>
+        href="#www.facebook.com/gueleto">FACEBOOK "Gueleto"</a>
+    </li>
+        <li>
+        <a
+        href="#www.facebook.com/joaogabriel.agg">FACEBOOK "João Gabriel"</a>
     </li>
  <li>
     <a
-    href="Statusdoprojeto">status do projeto</a>
+    href="Statusdoprojeto">Status do projeto</a>
     </li>
 
 </ul>
 
-## :rocket: Status do Projeto
+## REDES SOCIAIS
 <h4
 id="statusdoprojeto"
 align="left">
-Em construção...
+<h3> @gueleto + @joaogabriel.agg
 </h4>
 
 
