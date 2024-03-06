@@ -37,10 +37,25 @@ Conteúdo
     </li>
  <li>
     <a
-    href="Statusdoprojeto">Status do projeto</a>
+    href="#Statusdoprojeto">Status do projeto</a>
+    </li>
+<li>
+    <a
+    href="#PreRequisitos"> Pré Requisitos </a>
     </li>
 
+<li>
+    <a href="#features"> Features </a>
+    </li>
+
+<li>
+<a href="#tecnologia-utilizada"> Tecnologia Utilizada </a>
+
+</li>
+
 </ul>
+
+<p id="Redes Sociais"> </p>
 
 ## REDES SOCIAIS
 <h4
@@ -49,5 +64,30 @@ align="left">
 <h3> @gueleto + @joaogabriel.agg
 </h4>
 
+<p id="Features"> </p>
+
+## Features
+- [x] README - Padrões de Documentação
+- [ ]  README - Usando SSH
+
+```
+C:\GITHUB\AULA3\SRC
+├───app
+├───documentos
+└───repositorio
+```
+<p id="PreRequisitos"> </p>
+
+## Pré Requisitos 
+Voce precisa ter instalado:
+
+<ul>
+ <li>
+    <a href="https://code-visualstudio.com/">  VSCODE </a>
+    </li>
+</ul>
+<p id="Tecnologia Utilizada"> </p>
+
+## Tecnologia Utilizada
 
 
